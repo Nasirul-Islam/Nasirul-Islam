@@ -120,13 +120,13 @@
 </h2>
 
 <p align='left'>
-    <a href = "https://www.linkedin.com/in/nasirul866/">
+    <a href = "https://www.linkedin.com/in/nasirul866/" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
     </a>
-    <a href = "https://www.facebook.com/nasirul866/">
+    <a href = "https://www.facebook.com/nasirul866/" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/facebook.png"/>
     </a>
-    <a href = "https://www.instagram.com/nasirulislamripon/">
+    <a href = "https://www.instagram.com/nasirulislamripon/" target="_blank">
         <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
     </a>
 </p>
