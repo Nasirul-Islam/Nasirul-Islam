@@ -12,9 +12,11 @@
 
 - 👋 I’m Nasirul-Islam an Enthusiastic Programmer.
 - 👀 I’m interested in exploring new technology in the programming ocean.
-- 🌱 I’m currently learning **Dynamic Programming, Graph Algorithms, Django, React**
+- 💻 I’m currently working on **WPF, ASP.NET, SQL Server, NodeJS**
+- 🌱 I’m currently exploring **Artificial Intelligence, Machine Learning, Data Science**
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me **nasirulislam866@gmail.com**
+- 🔍 Search me on Google by **nasirul866**
 
 <!-- Languages and Tools -->
 <br/>
